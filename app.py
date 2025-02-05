@@ -26,6 +26,10 @@ st.write(
 
 st.markdown("---")
 
+st.balloons()
+
+st.snow() # Add snow effect to the page
+
 # Experience Section
 st.markdown("## **📌 Work Experience**")
 
