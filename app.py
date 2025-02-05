@@ -26,8 +26,6 @@ st.write(
 
 st.markdown("---")
 
-st.balloons()
-
 # Experience Section
 st.markdown("## **📌 Work Experience**")
 
