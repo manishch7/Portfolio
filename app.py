@@ -28,8 +28,6 @@ st.markdown("---")
 
 st.balloons()
 
-st.snow() # Add snow effect to the page
-
 # Experience Section
 st.markdown("## **📌 Work Experience**")
 
@@ -161,3 +159,5 @@ for key, value in contact_info.items():
     st.write(f"{key}: {value}")
 
 st.markdown("🚀 **Thanks for visiting my portfolio! Feel free to reach out.**")
+
+st.snow() # Add snow effect to the page
