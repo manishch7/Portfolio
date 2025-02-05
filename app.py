@@ -14,20 +14,6 @@ with st.sidebar:
     st.write("🔗 [LinkedIn](https://www.linkedin.com/in/manish-choudhary-bch7/)")
     st.write("💻 [GitHub](https://github.com/manishch7/Finlysis)")
 
-# # Custom CSS for Centering the Navigation Bar
-# st.markdown("""
-#     <style>
-#     .block-container { padding-top: 2rem; }
-#     .css-18e3th9 { justify-content: center; }
-#     .stRadio > div { flex-direction: row; justify-content: center; }
-#     .stRadio > label { display: none; }
-#     </style>
-# """, unsafe_allow_html=True)
-
-# # Top Navigation Menu
-# menu = st.radio("", ["Home", "Experience", "Projects", "Skills", "Education", "Contact"], horizontal=True)
-
-
 # Main Section
 st.title("🚀 Welcome to My Portfolio")
 
