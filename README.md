@@ -4,7 +4,7 @@
 📊 **Data Scientist | AI & ML Enthusiast | Data Analyst**  
 
 ## 🌐 Live Demo  
-🔗 [Visit My Portfolio](#) *(Replace `#` with your live Streamlit app URL)*  
+🔗 [Visit My Portfolio](https://portfolio-manish.streamlit.app)  
 
 ---
 
