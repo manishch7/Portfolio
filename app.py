@@ -32,34 +32,35 @@ st.markdown("## **📌 Work Experience**")
 exp_data = [
     {
         "role": "Data Analyst",
-        "company": "KROLL, Mumbai",
-        "years": "1 year",
+        "company": "Kroll, Mumbai",
+        "years": "Sep 2022 – Jul 2023",
         "details": [
-            "📊 Automated data pipeline reducing case processing time by **40%**.",
-            "🚀 Developed fraud detection models, improving accuracy by **25%**.",
-            "📈 Designed interactive **Tableau and Power BI dashboards**, enhancing real-time data access by **60%**.",
-            "✅ Automated compliance report generation with Python & SQL, reducing manual work by **70%**."
+            "📊 Engineered a **scalable data ingestion pipeline** using Pandas, improving case processing efficiency.",
+            "🚀 Designed and deployed a **supervised learning model** integrating statistical analysis and anomaly detection for fraud detection.",
+            "📈 Developed **real-time dashboards** in **Tableau and Power BI**, enhancing data accessibility for legal and compliance teams.",
+            "✅ Automated compliance report generation using **Python & SQL**, reducing manual effort and ensuring accurate reporting.",
+            "🤝 Collaborated with legal, IT, and compliance teams to **reinforce data-driven decision-making** for class action settlements."
         ]
     },
     {
         "role": "Jr. Data Scientist",
         "company": "BLC Logistics, Mumbai",
-        "years": "2 years",
+        "years": "May 2020 – Aug 2022",
         "details": [
-            "🔧 Developed **predictive maintenance models**, reducing breakdowns by **18%**.",
-            "🛣️ Built **ETL pipeline in Airflow**, reducing fuel costs by **12%**.",
-            "📦 Designed **demand forecasting models**, improving warehouse efficiency by **20%**.",
-            "📊 Created real-time dashboards to track fleet KPIs, optimizing operations by **10%**."
+            "🔧 Developed a **predictive maintenance model** with Python, SQL, Kafka, and Spark to improve fleet uptime.",
+            "🛣️ Built an **ETL pipeline in Airflow** to integrate live traffic and fuel data from Snowflake, optimizing route efficiency.",
+            "📦 Applied **statistical forecasting** techniques on supply data to improve warehouse turnover.",
+            "📊 Created an **interactive dashboard using Flask & FastAPI**, visualizing fleet KPIs to track efficiency, idle times, and costs.",
+            "⚡ Implemented a **comprehensive ETL workflow** with Airflow, AWS, and Spark, automating fleet data processing."
         ]
     },
     {
-        "role": "Research Analyst Intern",
-        "company": "Motilal Oswal Financial Services, Mumbai",
-        "years": "3 months",
+        "role": "Financial Analyst Intern",
+        "company": "Motilal Oswal, Thane",
+        "years": "Apr 2019 – Jul 2019",
         "details": [
-            "📊 Conducted **data-driven equity research** by analyzing financial statements.",
-            "🛠 Built **predictive models** to enhance investment insights.",
-            "🔄 Automated **data extraction using Python and Excel**, improving research efficiency."
+            "📈 Conducted **data-driven equity research**, analyzing financial statements and automating data extraction using Python & Excel.",
+            "📊 Built **predictive models** for investment insights to support decision-making."
         ]
     }
 ]
