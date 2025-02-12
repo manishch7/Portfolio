@@ -92,41 +92,42 @@ st.markdown("## **🛠️ Projects**")
 
 project_data = [
     {
-        "name": "Financial & News Analysis Chatbot",
-        "tech": "GPT-4o-mini, LSTM, DistilRoBERTa, Neo4j, Streamlit",
-        "desc": "Developed an AI-powered chatbot integrating stock trends, news sentiment, and financial data for smart investment insights."
-    },
-    {
-        "name": "Chain of Thought Prompt Pattern Exploration",
-        "tech": "Prompt Engineering, AI, Educational Content",
-        "desc": "Developed an interactive website to elucidate the Chain of Thought (CoT) prompt pattern, featuring practical examples and analyses. Created engaging songs to simplify CoT concepts, enhancing accessibility and understanding."
-    },
-    {
-        "name": "Motor Vehicle Collision Analysis",
-        "tech": "Alteryx, Talend, SQL, Tableau, Power BI",
-        "desc": "Processed crash data from multiple cities, creating interactive dashboards that improved data visibility by **30%**."
-    },
-    {
-        "name": "Dabba On Wheels - Food Delivery Database",
-        "tech": "Oracle, PL/SQL",
-        "desc": "Developed a scalable food delivery database with optimized subscription payments and order workflow."
-    },
-    {
-        "name": "Asynchronous Twitter Scraper",
+        "name": "Asynchronous Twitter Scraper (Jan 2025 – Present)",
         "tech": "Python, Twikit, CSV",
         "desc": "Developed a real-time scraper to fetch and analyze brand mentions (Nike, Adidas, Under Armour). Implemented rate-limit handling, extracted key data points (hashtags, mentions, URLs), and optimized for efficiency with a modular design."
     },
     {
-        "name": "Service Request Analytics: Kansas City 311 Calls",
+        "name": "Chain of Thought Prompt Pattern Exploration (Jan 2025 – Feb 2025)",
+        "tech": "Prompt Engineering, AI, Educational Content",
+        "desc": "Developed an interactive website to elucidate the Chain of Thought (CoT) prompt pattern, featuring practical examples and analyses. Created engaging songs to simplify CoT concepts, enhancing accessibility and understanding."
+    },
+    {
+        "name": "Julia's Culinary Companion Bot (Jan 2025 – Feb 2025)",
+        "tech": "Python, Perplexity AI",
+        "desc": "Developed an AI-powered cooking assistant that provides step-by-step recipes, ingredient substitutions, and meal planning tips. Emulated Julia Child's engaging teaching style to enhance user experience."
+    },
+    {
+        "name": "Financial & News Analysis Chatbot (Dec 2024 – Jan 2025)",
+        "tech": "GPT-4o-mini, LSTM, DistilRoBERTa, Neo4j, Streamlit",
+        "desc": "Developed an AI-powered chatbot integrating stock trends, news sentiment, and financial data for smart investment insights."
+    },
+    {
+        "name": "Service Request Analytics: Kansas City 311 Calls (Mar 2024 – Apr 2024)",
         "tech": "Alteryx, Power BI, Tableau",
         "desc": "Staged and profiled data with Alteryx, reducing preparation time by **20%**. Built dashboards in Power BI & Tableau, delivering insights that improved efficiency by **30%**."
     },
     {
-        "name": "Julia's Culinary Companion Bot",
-        "tech": "Python, Perplexity AI",
-        "desc": "Developed an AI-powered cooking assistant that provides step-by-step recipes, ingredient substitutions, and meal planning tips. Emulated Julia Child's engaging teaching style to enhance user experience."
+        "name": "Motor Vehicle Collision Analysis (Jan 2024 – Mar 2024)",
+        "tech": "Alteryx, Talend, SQL, Tableau, Power BI",
+        "desc": "Processed crash data from multiple cities, creating interactive dashboards that improved data visibility."
+    },
+    {
+        "name": "Dabba On Wheels - Food Delivery Database (Sept 2023 – Dec 2023)",
+        "tech": "Oracle, PL/SQL",
+        "desc": "Developed a scalable food delivery database with optimized subscription payments and order workflow."
     }
 ]
+
 
 for project in project_data:
     with st.expander(f"📌 {project['name']}"):
