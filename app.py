@@ -89,7 +89,7 @@ project_data = [
         "name": "Chain of Thought Prompt Pattern Exploration",
         "tech": "Prompt Engineering, AI, Educational Content",
         "desc": "Developed an interactive website to elucidate the Chain of Thought (CoT) prompt pattern, featuring practical examples and analyses. Created engaging songs to simplify CoT concepts, enhancing accessibility and understanding."
-    }
+    },
     {
         "name": "Motor Vehicle Collision Analysis",
         "tech": "Alteryx, Talend, SQL, Tableau, Power BI",
@@ -99,17 +99,17 @@ project_data = [
         "name": "Dabba On Wheels - Food Delivery Database",
         "tech": "Oracle, PL/SQL",
         "desc": "Developed a scalable food delivery database with optimized subscription payments and order workflow."
-    }
+    },
     {
         "name": "Asynchronous Twitter Scraper",
         "tech": "Python, Twikit, CSV",
         "desc": "Developed a real-time scraper to fetch and analyze brand mentions (Nike, Adidas, Under Armour). Implemented rate-limit handling, extracted key data points (hashtags, mentions, URLs), and optimized for efficiency with a modular design."
-    }
+    },
     {
         "name": "Service Request Analytics: Kansas City 311 Calls",
         "tech": "Alteryx, Power BI, Tableau",
         "desc": "Staged and profiled data with Alteryx, reducing preparation time by **20%**. Built dashboards in Power BI & Tableau, delivering insights that improved efficiency by **30%**."
-    }
+    },
     {
         "name": "Julia's Culinary Companion Bot",
         "tech": "Python, Perplexity AI",
