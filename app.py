@@ -17,12 +17,22 @@ with st.sidebar:
 # Main Section
 st.title("🚀 Welcome to My Portfolio")
 
-st.markdown("## **About Me**")
-st.write(
-    "I am a passionate **Data Analyst & Jr. Data Scientist** with expertise in **data engineering, machine learning, "
-    "and AI-driven analytics**. With a Master's degree in **Data Architecture and Management** from **Northeastern University**, "
-    "I specialize in **predictive modeling, data visualization, and automation** to drive business efficiency and insights."
-)
+st.markdown("""
+# 👨‍💻 About Me
+
+🚀 **Data Enthusiast | AI Explorer | ML Engineer**  
+
+I am a **data-driven innovator** with a passion for **AI, data engineering, and predictive analytics**. Currently pursuing a **Master’s in Data Architecture & Management at Northeastern University**, I specialize in:  
+
+🔹 **Building scalable data pipelines** with Python, SQL, Spark, and Airflow  
+🔹 **Designing AI-driven analytics** for business intelligence & automation  
+🔹 **Developing predictive models** to uncover hidden insights  
+🔹 **Creating interactive dashboards** with Tableau, Power BI & Flask  
+
+⚡ I love solving real-world problems with **machine learning, automation, and big data** to drive efficiency and impact.  
+
+📊 Let’s turn **data into decisions, models into action, and AI into innovation!**  
+""", unsafe_allow_html=True)
 
 st.markdown("---")
 
